@@ -1,8 +1,8 @@
   <h2 align="center">👋 Oi! Eu sou o Luiz</h2>
         <p>
-            Sou graduado em <b>Biomedicina</b>, e futuramente pretendo cursar <b>Análise e Desenvolvimento de Sistemas</b>.
-            Comecei a estudar programação no final da graduação para o desenvolvimento do meu trabalho de conclusão de curso,
-            e acabei me interessando muito. No momento estou em transição de carreira para área da TI. 😀
+            Sou graduado em <b>Biomedicina</b>, e atualmente estudante de <b>Análise e Desenvolvimento de Sistemas</b>.
+            Comecei a estudar programação no final da graduação para o desenvolvimento do meu trabalho de conclusão de curso em Biomedicina,
+            e acabei me interessando muito pela área. No momento estou em transição de carreira para área da TI. 😀
         </p>
             <div>
               <h3>📚 Atualmente estou estudando</h3>
