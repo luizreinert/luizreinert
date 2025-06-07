@@ -7,7 +7,6 @@
 ```javascript
 const luiz = {
   role: "Front End Developer",
-  background: "Former Biomedical Scientist turned Developer",
   interests: ["Web Development", "Technology", "Innovation"],
   currentlyLearning: ["TypeScript", "Tailwind", "Back-end development"]
 };
