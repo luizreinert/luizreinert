@@ -8,7 +8,7 @@
 const luiz = {
   role: "Front End Developer",
   interests: ["Web Development", "Technology", "Innovation"],
-  currentlyLearning: ["TypeScript", "Tailwind", "Back-end development"]
+  currentlyLearning: ["Openedge ABL", "TypeScript", "Tailwind", "Back-end development"]
 };
 
 ```
@@ -28,6 +28,7 @@ const luiz = {
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PROGRESS Openedge ABL](https://img.shields.io/badge/Openedge%20abl-grey?style=for-the-badge&logo=progress)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
