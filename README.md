@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luiz 👋</h1>
-<h4 font-size="20" align="center">A passionate developer and student from Brazil.</h4>
+<h4 font-size="20" align="center">A passionate developer and student.</h4>
 
 ## About Me
 <br>
