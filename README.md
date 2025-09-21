@@ -1,18 +1,4 @@
-<h1 align="center">Hi, I'm Luiz 👋</h1>
-<h4 font-size="20" align="center">A passionate developer and student.</h4>
-
-## About Me
-<br>
-
-```javascript
-const luiz = {
-  role: "Front End Developer",
-  interests: ["Web Development", "Technology", "Innovation"],
-  currentlyLearning: ["Openedge ABL", "TypeScript", "Tailwind", "Back-end development"]
-};
-
-```
-<br>
+<h1 align="center">Hello World, I'm Luiz! 👋</h1>
 
 ---
 
